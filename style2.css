@@ -1,0 +1,141 @@
+body{
+    background-color: gray;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+    background-image: url(img/4bbaf4120c53764882456b68c2f4faa0.jpg);
+    background-attachment: fixed;
+}
+img{
+    width: 100px;
+}
+.header{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    background-color: rgb(0, 0, 0);
+    box-shadow: 1px 1px 4px black;
+    height: 5.5em;
+    justify-content: space-between;
+    padding: 0 10%;
+    padding-top: 50px;
+    
+}
+.imagemlinks{
+    width: 25px;
+}
+.imagemtwitter{
+    width: 30px;
+}
+.imagemyt{
+    width: 45px;
+}
+.imagemtv{
+    width: 100px;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+a{
+    color: rgb(255, 255, 255);
+   font-weight: bold;
+   text-decoration: none;
+   
+}
+a:hover{
+   color: rgba(243, 181, 9, 0.397);
+   transition: 0.5s;
+   
+}
+main{
+    margin-left: 700px;
+    margin-right: 700px;
+    margin-top: 40px;
+}
+.titulo{
+    background-color: rgba(132, 114, 72, 1);
+    padding: 15px;
+    border-radius: 5px;
+    
+}
+
+.info{
+    margin-top: 40px;
+    font-size: smaller;
+    text-align: center;
+
+}
+#campo_usuário{
+    
+        margin-top: 15px;
+        padding-bottom: 20px;
+        border-radius: 7px;
+        padding-left: 347px
+    
+}
+#campo_senha{
+        margin-top: 15px;
+        padding-bottom: 20px;
+        border-radius: 7px;
+        padding-left: 347px
+        
+}
+
+.botão{
+    background-color: rgba(132, 114, 72, 1);
+    width: 50px;
+    padding-left: 60px;
+    padding-right: 60px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    border-radius: 5px;
+    margin: auto;
+}
+div.botão{
+    margin-top: 10px;
+}
+.botão:hover{
+    background-color: black;
+    color: rgba(132, 114, 72, 1);
+    transition: 0.4s;
+}
+.esqueci{
+    text-align: center;
+    margin-top: 10px;
+    
+}
+.esqueci:hover{
+    color:  rgba(132, 114, 72, 1);
+    transition: 0.4s;
+}
+.rodapé{
+    display: flex;
+    gap: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: smaller;
+    text-align: center;
+    margin-top: 80px;
+    margin-bottom: -20px;
+    background-color: black;
+    padding-top: 20px;
+    padding-left: 400px;
+    padding-right: 400px;
+    padding-bottom: 110px;
+}
+.ultimg{
+    text-align: center;
+    background-color: black;
+    line-height: 25px;
+    font-size: smaller;
+    padding-bottom: 35px;
+}
+.corinthians{
+    width: 90px;
+}
+
+
+
+
+
