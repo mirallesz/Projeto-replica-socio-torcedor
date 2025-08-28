@@ -15,6 +15,6 @@ PAGINA DE LOGIN DO SOCIO:
 PAGINA DE CADASTRO DO SOCIO: 
 
  <img src="<img width="1600" height="762" alt="cadastro-page-sccp" src="https://github.com/user-attachments/assets/085aedca-d7ee-4acd-8690-0448e4ae4555" />
-" class="imagemlinks"  alt="">
+
 
 
